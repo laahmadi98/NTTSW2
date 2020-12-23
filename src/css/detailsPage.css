@@ -111,4 +111,11 @@
         flex-direction:column;
 
     }
+    .order-page-register{
+        flex-direction: column;
+    }
+    .details-page-tab{
+        border: 1px solid red;
+        width: 100%;
+    }
 }
