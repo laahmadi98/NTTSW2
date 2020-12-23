@@ -57,7 +57,7 @@ class OrderPage extends Component {
             <div className="wrapper">
                 <VerticalSpace />
                 <TitleDetails title="مدیریت پرونده" />
-                <div className="order-page-register">
+                 <div className="order-page-register">
                     <div className="order-page-register-add" style={{ marginTop: "1rem" }}>
                         <Button title="پرونده جدید" backgroundColor="rgb(68, 156, 236)" width="115px" borderRadius="5px" padding="4px" color="#fff" icon="add.svg" />
                     </div>
@@ -122,7 +122,7 @@ class OrderPage extends Component {
                 <div className="details-page-tab">
                     <Paginate Header={Header} data={data} col="phone.gender.age.name.test.test1.test2.test3.test4.test5.test7.test8.test9.test10" />
 
-                </div>
+                </div>  
             </div>
         );
     }
