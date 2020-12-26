@@ -35,8 +35,9 @@
 }
 tbody tr td{
   border: 1px solid #fff;
-  color:#315492;
-  font-size: 0.9rem;
+  /* color:#315492; */
+  color:#000;
+  font-size: 0.7rem;
 }
 tbody tr:nth-child(even) td{
   background-color: #dadada;

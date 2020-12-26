@@ -33,6 +33,7 @@
     font-weight: bold;
     cursor:pointer;
     transition: transform 0.4s;
+    background-color:  #008B8B!important;
  
 }
 .react-tabs{
@@ -41,7 +42,7 @@
 .idea-submit-btn:hover{
     color:#fff !important;
     transition: background-color 0.7s ease-out;
-    background-color:#315492 !important;
+    background-color:#ca2221 !important;
     /* transition: box-shadow .45s;
     box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
 }

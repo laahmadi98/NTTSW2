@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
 import { TablePagination } from 'react-pagination-table';
 // https://github.com/miteshtagadiya/react-responsive-data-table
+// https://reactjsexample.com/react-components-for-sorting-filtering-and-pagination-of-data/
+// https://codesandbox.io/examples/package/react-data-table-component
+// https://codesandbox.io/s/ccyuu
+//https://codesandbox.io/s/react-table-with-pagination-and-searching-cxo0n
 
 class Paginate extends Component {
 

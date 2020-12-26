@@ -25,19 +25,20 @@ body{
     text-align: right;
 }
 .login label{
-    color: #062d66;
+    color: #000;
     font-weight: bold;
 }
 .login input{
-    border-color: #315492;
+    border: 1px solid #ddd;
     direction: ltr;
     color: #062d66;
     font-size: 1rem;
 }
 
 .login button{
-    background-color:  #062d66;
-    color: #fff;
+    background-color:  #ccc;
+    /* color: #fff; */
+    color :#315492;
     font-weight: bold;
 
 }
