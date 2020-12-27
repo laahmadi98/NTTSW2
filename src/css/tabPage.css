@@ -8,7 +8,7 @@
  padding: 0.5rem 0.2rem;
 
 }
-.details-tabs{
+ .details-tabs{
   width: 25%;
   text-align: center;
   color: #05214b;
@@ -35,7 +35,6 @@
 }
 tbody tr td{
   border: 1px solid #fff;
-  /* color:#315492; */
   color:#000;
   font-size: 0.7rem;
 }
@@ -49,9 +48,9 @@ tbody tr:nth-child(odd) td{
 .react-tabs__tab--selected {
   background-color: #315492;
   color: #fff;
-}
+} 
 
-@media only screen and (max-width :750px ){
+@media screen and (max-width :750px ){
   #details-tab{
     display: flex;
    flex-direction : column;

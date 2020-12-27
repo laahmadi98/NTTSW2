@@ -11,8 +11,9 @@
 body{
     direction: rtl;
     font-size: 100%;
-    font-family: Vazir;
+    font-family: vazir!important;
     text-align: right !important;
+    font-size: 1rem !important;
 }
 .login{
     padding: 4rem;
