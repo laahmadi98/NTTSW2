@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { TablePagination } from 'react-pagination-table';
-import  Table  from "react-responsive-data-table";
 import Button from "../utils/Button";
 // https://github.com/miteshtagadiya/react-responsive-data-table
 // https://reactjsexample.com/react-components-for-sorting-filtering-and-pagination-of-data/
